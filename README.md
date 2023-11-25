@@ -1,3 +1,3 @@
-# vocational-school
+# ROS-Install repo MMBbS FiSi23C
 
-This is a repo for all the stuff that I do in vocational school.
+This contains the binary and source for installing the needed ROS version.
